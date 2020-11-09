@@ -80,6 +80,6 @@ python3 -m onepiece --site=qq --comicid=505430 --chapter=-1 \
   --driver-type="Chrome" \
   --cookies-path="data/cookies/qq.json"
 ```
-
+python3 -m onepiece --site=qq --name=海贼`
 
 **免责声明**：本项目仅供学习交流之用，请勿用于非法用途。
